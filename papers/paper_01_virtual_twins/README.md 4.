@@ -1,3 +1,0 @@
-This folder contains computational models and Python scripts developed for studying the mechanical response of mouse kidneys following unilateral ureteral obstruction (UUO).
-
-The workflow includes histology-based geometry reconstruction, finite element modeling, and post-processing of renal pelvic and papillary stress and deformation.
